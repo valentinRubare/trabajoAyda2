@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1566394313 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1566395342 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1566395359 source:c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1598390887 c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1662056347 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1662125788 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\grafo\grafo.h
+	<list>
+
+1663601853 source:c:\users\federico\downloads\grafo\main.cpp
+	"Grafo.h"
+	"Servicios.h"
+	"iostream"
+
+1662125788 c:\users\federico\downloads\grafo\grafo.h
+	<list>
+
+1663601868 c:\users\federico\downloads\grafo\servicios.h
+	<list>
+
+1664829017 source:c:\users\usuario\downloads\grafo_tpe (1)\grafo\main.cpp
+	"Grafo.h"
+	"Servicios.h"
+	"iostream"
+
+1664830634 c:\users\usuario\downloads\grafo_tpe (1)\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1664830634 c:\users\usuario\downloads\grafo_tpe (1)\grafo\servicios.h
+	"iostream"
+	<list>
+
+1664829018 source:c:\users\valentin\desktop\facultad\ayda2\grafo_tpe (1)\grafo\main.cpp
+	"Grafo.h"
+	"Servicios.h"
+	"iostream"
+
+1664830636 c:\users\valentin\desktop\facultad\ayda2\grafo_tpe (1)\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1664830636 c:\users\valentin\desktop\facultad\ayda2\grafo_tpe (1)\grafo\servicios.h
+	"iostream"
+	<list>
+
+1664829018 source:c:\users\valentin\desktop\facultad\ayda2\grupo1-vailati-rubare\grafo\main.cpp
+	"Grafo.h"
+	"Servicios.h"
+	"iostream"
+
+1664830636 c:\users\valentin\desktop\facultad\ayda2\grupo1-vailati-rubare\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1664830636 c:\users\valentin\desktop\facultad\ayda2\grupo1-vailati-rubare\grafo\servicios.h
+	"iostream"
+	<list>
+
